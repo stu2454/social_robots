@@ -21,7 +21,7 @@ The full backgrounder provides:
 
 ## Quick links
 - 📄 [Full backgrounder](./docs/social_robotics_backgrounder.md)  
-- 📄 [Prompt for backgrounder(./docs/social_robotics_prompt.md)  
+- 📄 [Prompt for backgrounder](./docs/social_robotics_prompt.md)  
 - 🌐 [ARIIA Technology in Aged Care – Robots](https://www.ariia.org.au/knowledge-implementation-hub/technology-in-aged-care/types-technology-aged-care/robots)  
 - 🧑‍🔬 [Wendy Moyle, Griffith University](https://experts.griffith.edu.au/19094-wendy-moyle)  
 - 📚 [PubMed search on “social robots” and “ageing/aging”](https://pubmed.ncbi.nlm.nih.gov/?term=%22social+robots%22+and+%22ageing+or+aging%22)  
